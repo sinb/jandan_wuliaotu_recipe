@@ -5,6 +5,7 @@ python libraries needed:
 * pyspider
 * tqdm
 * requests
+
 I believe both python 2 and 3 will work.
 
 * copy jandan_wuliaotu_pyspider.py to pyspider dashbord and hit run.
